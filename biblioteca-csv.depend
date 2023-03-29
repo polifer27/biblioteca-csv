@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679929259 source:/home/poli/Documents/lenguaje-C/la-practica-de-la-programacion/biblioteca-csv/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"csv.h"
+
+1679918666 /home/poli/Documents/lenguaje-C/la-practica-de-la-programacion/biblioteca-csv/csv.h
+
